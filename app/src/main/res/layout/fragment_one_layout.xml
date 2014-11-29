@@ -16,7 +16,7 @@
                 android:layout_marginTop="100dp"
                 android:textColor="#ffe1ff43"
                 android:textSize="25pt"
-                android:text="@string/YourText"
+                android:text="@string/DecOfFaith"
                 android:autoText="false" />
 
 

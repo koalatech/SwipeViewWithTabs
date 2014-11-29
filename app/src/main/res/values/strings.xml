@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SwipeViewWithTabs</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">My Iglesia Filipina Independiente</string>
+
     <string name="action_settings">Settings</string>
-    <string name="YourText">
-        <b>Declaration of Faith</b>
+    <string name="DecOfFaith">
+
         \n\n     The Declaration of Faith is the public confession of the faith that is professed by the Iglesia Filipina Independiente. It declares belief in the Triune God and the Catholic and Apostolic character of the Church. The Declaration of Faith, with the Articles of Religion, was established by the Church in the 1947 General Assembly.
 
         \n\n\n<b>The Holy Trinity</b>
@@ -20,4 +20,131 @@
         \n\n\n<b>One Catholic and Apostolic Church</b>
         \n\n     The Church, Holy, Catholic and Apostolic, which is the Body of Christ, founded by Christ for the redemption and sanctification of mankind, and to which Church He gave power and authority to preach His Gospel to the whole world under the guidance of His Holy Spirit.
     </string>
+    <string name="ArtOfRel">
+                \n\n
+                The Articles of Religion are doctrinal statements that define the standards of doctrine of the Iglesia Filipina Independiente. It contains the basic summary of the doctrinal  teachings  subscribed  to by the clergy and laity of the Church. The Iglesia Filipina Independiente holds to the following Articles of Religion.
+                \n\n
+                <b>Salvation:</b>
+                \n Salvation is obtained only through a vital faith in Jesus Christ, the Son of God, as Lord and Saviour. This faith should manifest itself in good works.
+                \n\n
+                <b>Holy Scriptures:</b>
+                \n The Holy Scriptures contain all things necessary to salvation, and nothing which cannot be proved thereby should be required to be believed.
+                \n\n
+                <b>The Creeds:</b>
+                \n The Articles of the Christian Faith as contained in the ancient Creeds known as the Apostles’ and Nicene Creeds are to be taught by this Church and accepted by the faithful.
+                \n\n
+                <b>The Sacraments:</b>
+                \n The Sacraments are outward and visible signs of our faith and a means whereby God manifests His goodwill towards us and confers grace upon us.
+                \n\n
+                Two Sacraments, Baptism and Holy Communion, commonly called the Mass, ordained by Christ Himself, are held to be generally necessary to salvation.
+                \n\n
+                <i>Baptism</i> is necessary for salvation. It signifies and confers grace, cleansing from original sin as well as actual sin previously committed; makes us children of God and heirs of everlasting life. It effects our entrance into the Church of God. It is administered with water in the Name of the Father, the Son, and the Holy Ghost.
+                \n\n
+                <i>Confirmation</i>, whereby, through the imposition of the Bishop’s hands, anointing and prayer, baptized Christians are strengthened by the gifts of the Holy Spirit and confirmed in the Faith.
+                \n\n
+                <i>Penance</i>, the confession of sins as commanded by Jesus Christ.
+                \n\n
+                <i>The Holy Eucharist</i>, the sacrament of the Body and Blood of Christ, taken and received by the faithful for the strengthening and refreshing of their bodies and souls.
+                \n\n
+                <i>Holy Unction</i>, whereby the sick, especially one in danger of death, is anointed with oil with prayer. He receives, if necessary, remission of sins, the strengthening of his soul, and, if it be God’s will, restoration to health.
+                \n\n
+                <i>Holy orders</i>, a Sacrament by which Bishops, Priests and Deacons are ordained and receive power and authority to perform their sacred duties.
+                \n\n
+                <i>Holy Matrimony</i>, a sacrament in which a man and a woman are joined together in the holy estate of matrimony.
+                \n\n
+                <b>The Holy Eucharist:</b>
+                \n The Holy Eucharist, commonly called the Mass, is the central act of Christian worship. It is the sacrament of our redemption by Christ’s death. Those who partake of it receive the Body and Blood of Christ. All who purpose to make their communion should diligently try and examine themselves before they presume to eat of that Bread and drink of that Cup. For as the benefit is great, if with a true penitent heart and lively faith a man receive that Holy Sacrament, so is the danger great if he receive the same unworthily.
+
+                \n The Mass is to be said in the official language of the Church in such a way it can be heard by the worshipers.
+
+                \n The authorized Order for the celebration of the Mass is that set forth in the Prayer Book adopted by this Church.
+                \n\n
+                <b>Sacred Ministry:</b>
+                \n From Apostolic times there have been three Orders of Ministers in the Church of God: Bishops, Priests and Deacons. These orders are to be reverently esteemed and continued in this Church. And no man is to be accepted as a lawful Bishop, Priest, or Deacon in this Church, or permitted to execute any functions pertaining to these Orders, except he be called, tried, examined, and admitted thereunto according to the Canons of this Church, and in accordance with the Order prescribed by this Church for making, Ordaining and Consecrating Bishops, Priests and Deacons, or hath had Episcopal Consecration or Ordination.
+                \n\n
+                <b>Celibacy of the Clergy:</b>
+                \n Bishops, Priests, and Deacons are not commanded by God’s law to marry to abstain from marriage, therefore they are permitted to marry at their own discretion, as they shall judge the same to serve better to godliness.
+                \n\n
+                <b>Church Building:</b>
+                \n Churches for the worship of God are to be erected and separated from all unhallowed, worldly, and common uses, that men may reverence the Majesty of God and show forth greater devotion and humility in His service.
+                \n\n
+                <b>The Altar:</b>
+                \n The altar is the most sacred part of the Church because there Jesus is sacramentally present. It symbolizes Mt. Calvary, and, therefore, if images of Saints are used for adornment, care is to be exercised that such ornaments may not distract the minds of the worshipers from the Person of Jesus Christ.
+                \n\n
+                <b>Worship, Rites and Ceremonies:</b>
+                \n Only such Orders of Service as have been authorized by this Church shall be used in Public Worship; provided, however, that the Diocesan Bishop or Supreme Council of Bishops may authorize Orders of Service for special occasions.
+                \n\n
+                <b>Language of Public Service:</b>
+                \n All public services shall be conducted in the official language of the Church, or in any other language the Supreme Council of Bishops may prescribe.
+                \n\n
+                <b>Purity of Life:</b>
+                \n Holiness, altruism, obedience to God’s Commandments and a zeal for His honor and glory are incumbent upon Clergy and Laity alike, therefore all should be trained in a clean and disciplined life, not neglecting prayer, study, and the exercise of moral discipline.
+                \n\n
+                <b>Knowledge:</b>
+                All truth is of God, therefore the Church should promote sound knowledge and good learning. No books except those detrimental to good morals are to be prohibited.
+                \n\n
+                <b>The Blessed Virgin:</b>
+                \n The Virgin Mary was chosen by God to be the Mother of Jesus Christ. As Jesus Christ is truly God and Mary is the Mother of Jesus Christ, she is the Mother of God in His human generation. She whom God honored is to be honored above all.
+                \n\n
+                <b>The Saints:</b>
+                \n Persons universally recognized for their holiness of life, loyalty and courage, especially the Blessed Virgin and the New Testament Saints, are to be held in reverent remembrance. Veneration of Saints is not contrary to God’s commandments as revealed in the Scriptures; but their deification is condemned by the Church as a monstrous blasphemy. Veneration of the Saints must not obscure the duty of the faithful to direct approach to God through Jesus Christ. Honor rendered the Saints must in no wise detract from the honor due the Three Persons of the Holy Trinity.
+                \n\n
+                <b>Miracles:</b>
+                \n Holy Scriptures teach us that events take place in the natural world, but out of its established order, which are possible only through the intervention of divine power, like the Incarnation of Jesus Christ. So-called miracles, based not on well-authenticated facts but on merely fantastic rumors, are repudiated. Belief in unsubstantiated miracles leads to pagan fanaticism and is to be condemned as destructive to the true faith.
+                \n\n
+                <b>Attitude Towards The Roman Church:</b>
+                \n When this Church withdrew from the Roman Catholic Church, it repudiated the authority of the Pope and such doctrines, customs and practices as were inconsistent with the Word of God, sound learning and a good conscience. It had no intention of departing from Catholic doctrine, practice and discipline as set forth by the Councils of the undivided Church. Such departures as occurred were due to the exigencies of the times, and are to be corrected by official action as opportunity affords, so that this Church may be brought into the stream of historic Christianity and be universally acknowledge as a true branch of the Catholic Church.
+                \n\n
+                <b>Attitude Towards Other Churches:</b>
+                \n Opportunity is to be sought for closer cooperation with other branches of the Catholic Church, and cordial relations maintained with all who acknowledge Jesus Christ as Lord and Saviour.
+                \n\n
+                <b>Church and State:</b>
+                \n This Church is politically independent of the State, and the State of the Church. The Church does not ally itself with any particular school of political thought or with any political party. Its members are politically free and are urged to be exemplary citizens and to use their influence for the prosperity and welfare of the State.
+                \n\n
+                <b>Doctrine and Constitutional Rules of the Church and the Fundamental Epistles:</b>
+                \n The Doctrine and Constitutional Rules of the Philippine Independent Church, adopted on October 28th, 1903, and subsequently amended, and the Fundamental Epistles of the Philippine Independent Church, are henceforth not to be held as binding either upon the Clergy or Laity of this Church in matters of Doctrine, Discipline or Order, wherein they differ in substance from the Declaration of Faith or the Articles of Religion contained herein. They are to be valued as historical documents promulgated by the Founders of this Church when they were seeking to interpret the Catholic Faith in a manner understood by the people. Under the inspiration of the Holy Spirit the Church has sought to eradicate such errors of judgment and doctrine as crept into its life and official documents in times past.
+                \n\n
+                <b>Additions, Amendments, Repeal:</b>
+                \n The Declaration of Faith shall not be altered, amended or repealed. However, the Articles of Religion may be amended, repealed or added to by an absolute majority of the delegates to the General Assembly having the right to vote. Such action before it becomes binding upon the Church must be ratified by the Supreme Council of Bishops and approved by the Supreme Bishop.
+    </string>
+
+    <string name = "ifi_history">
+            \n\n        The Iglesia Filipina Independiente was formed in the beginning of the twentieth century as part of the broad nationalist struggle against Spanish colonialism and American imperialism. It traces its origin from the struggle of the Filipino clergy against racial discrimination and friar domination within the Roman Church in the 19th century, which, consequently, transformed into a nationalist crusade for the absolute Filipinization of the Church in the twilight years of the 20th century.
+
+            \n Fr. Gregorio Aglipay played an important role in the revolutionary war to overthrow Spanish rule and in the struggle for the Filipinization of the Church. In his capacity as Military Vicar of the Revolutionary Government, he gathered Filipino priests to a special meeting on October 1898 to lay down the organizational foundation of the Filipino Church. The formal institution of the Philippine Church was however prevented by the intrusion of the United States of America in the course of the revolutionary war against Spain.
+
+            \n Fr. Aglipay, who fought in the Ilocos region against US aggression, returned to Manila in 1901 following his negotiated surrender and immediately resumed the crusade for the Filipinization of the Church. While keeping an eye on how the US colonial set up might influence reformation within the Roman Church, he explored the potential of cooperating with Protestant Churches which had his efforts irreverently refused.
+
+            \n It was during this period, when the institutional and missionary churches were cooperating with the colonial government, and patriotic Filipinos continue to sustain the struggle for national democracy in the backdrop of US colonial set up, that the Iglesia Filipina Independiente was born. A public protest spearheaded by the Union Obrera Democratica (UOD), first labor confederation in the country, publicly proclaimed the Iglesia Filipina Independiente in August 3, 1902. Isabelo de los Reyes, Sr., president of the labor confederation, nominated Fr. Aglipay as Obispo Maximo (Supreme Bishop). Fr. Aglipay eventually joined the Iglesia Filipina Independiente and headed the signatories of the Temporary Constitution on October 1902.
+
+            \n Obispo Maximo Gregorio Aglipay headed the Iglesia Filipina Independiente from 1902 to 1940. He charted the course of the nascent Church in an epoch of strong nationalism and critical opposition to US domination. Consequentially, the Church espoused a theology that approached religion in a nationalistic and scientific way. The Church has expressed in its rituals, music, and worship the enduring aspiration of the Filipinos for national democracy. Obispo Maximo Aglipay likewise earned the reputation of cooperating with Filipino socialists and communists in his many political endeavors, and supported peasant uprisings and continuous political resistance to the colonial structure.
+
+            \n Bishop Santiago Fonacier was elected Obispo Maximo by the General Assembly in October 1940, a month after Obispo Maximo Aglipay passed away. He would lead the Church during the four years of Japanese occupation of the country. He was replaced by Bishop Gerardo Bayaca in 1946 following questions on doctrinal positions and a stringent leadership conflict in the hierarchy.
+
+            \n In the post-war period, the Iglesia Filipina Independiente would consolidate itself under a new Constitution and Canons in 1947. In the three decades that would follow, under the competent leadership of Bishop Isabelo de los Reyes as the fourth Obispo Maximo (1946-1972), the Church would concentrate on developing and nurturing its institutional life. Bishop de los Reyes strengthened the theological position of the Church and ushered in the forging of concordat relations with various Churches in many countries and sought membership in national and international ecumenical bodies.
+
+            \n The 1972 General Assembly elected Bishop Macario Ga as the fifth Obispo Maximo (1972-1981). His leadership was challenged by the general political situation in the country during the martial law years. It was a period that witnessed the growing militancy of most of the grass-root oriented clergy and youth who sought to bring new life to the national and democratic heritage of the Church. During this infernal phase of the country’s history, the Church moved towards a progressive stance with regards socio-political issues.
+
+            \n The adoption of a new Constitution and Canons in 1977 marked another important milestone in the institutional life of the Church. It opened the doors for the empowerment of lay people and greater participation in the governance of the Church. It strengthened the institutional foundation of the life and work of the Church with the implementation of various programs on education and skill enhancement, stewardship and resource generation and organizational consolidation.
+
+            \n The two decades that would follow, under the successive leadership of four Obispos Maximos - Bishop Abdias de la Cruz (1981-1987), Bishop Soliman Ganno (1987-1989) Bishop Tito Pasco (1989-1993), and Bishop Alberto Ramento (1993-1999) - witnessed the conscious renewal of the historical mission and further institutional growth of the Church.
+
+            \n The first General Assembly under the 1977 Constitution and Canons was held on May 1981 at the National Cathedral. The Most Reverend Abdias de la Cruz was elected as the sixth Obispo Maximo. His administration would however be beset with the problem of separation led by former Obispo Maximo Ga who refused to concede to his defeat and formed the Iglesia Catolica Filipina Independiente (ICFI).
+
+            \n The Church elected the Most Reverend Soliman Ganno as the seventh Obispo Maximo in the General Assembly of May 1987. It was during his term that the Statement on Development was adopted which laid down the agenda for renewal on the various aspects of the institutional life of the Church. The statement likewise embodied the continuous and conscious effort of the Church to recapture its historical heritage. Obispo Maximo Ganno, however, passed away after two years of fruitful leadership.
+
+            \n The Special General Assembly that was convened on June 1989 elected Obispo Maximo Tito Pasco to serve the unfinished term of the late Obispo Maximo Ganno. Obispo Maximo Pasco pursued the agenda set forth by his predecessor and initiated concrete programs towards the organizational development of the Church. He launched the Three-Year Vision Program in October 1990 which was aimed to enhance stewardship and education in the Church. In 1992, he led the launching of the Comprehensive National Program (CNP) of the Church which was meant to build up effective organizational structures and institute processes that would facilitate the various program concerns of the Church. The Centennial Decade Celebration was also launched in this year to prepare for the one hundred year proclamation anniversary of the Church.
+
+            \n The Most Reverend Alberto Ramento was elected as the ninth Obispo Maximo during the May 1993 General Assembly. He embarked on an intensified campaign for stewardship and further empowerment of the laity. He strengthened the capability of the Church in facilitating the national program with the creation of various commissions in the Central Office. Obispo Maximo Ramento led the Church to an increasing awareness of its prophetic role in the establishment of a just society. He was recognized as peacemaker and endorsed as member of the joint monitoring committee on the peace process between the Government of the Republic of the Philippines (GRP) and National Democratic Front of the Philippines (NDFP). It was during his term that the concordat between the Iglesia Filipina Independiente and the Church of Sweden was signed in 1995.
+
+            \n The May 1999 General Assembly elected Bishop Tomas Millamena as the tenth Obispo Maximo. His centerpiece program is embodied in the Ten Year Strategic Plan of the Church that was approved in 2002. Obispo Maximo Millamena worked towards the strengthening of Church leadership bodies through an intensified education campaign. Episcopal study-conferences, regional clergy convocations, and lay congresses were held to consolidate the different strata of leadership in the Church. He likewise pursued the implementation of important policies that would correspond to financial and property management. Obispo Maximo Millamena held the apostolic staff in leading the Iglesia Filipina Independiente in celebrating its centenary in August 2002.
+
+            \n The Most Reverend Godofredo David was elected by the May 2005 General Assembly as eleventh Obispo Maximo. He continued pursuing the programmatic designs of the Ten Year Strategic Plan and focused on human resource development, church workers benefit, and property consolidation as his centerpiece program. Cooperation among local churches was likewise further developed through the strengthening of regional structures and stronger ecumenical partnership reinforced the Church’s pro-development advocacy during his leadership. The extrajudicial killing of the Most Reverend Alberto Ramento in 2006 has led his administration toward a more pro-active engagement with justice and peace, and human rights issues. At the end of Bishop David’s term, a more solid base warranting the further institutional development of the Church has been put up with the proper management and maximization of the Church’s human, financial and material resources.
+
+            \n The Most Reverend Ephraim Servanez Fajutagana was elected in the May 2011 General Assembly as the twelfth Obispo Maximo of the Iglesia Filipina Independiente.
+
+
+    </string>
+
+
 </resources>
