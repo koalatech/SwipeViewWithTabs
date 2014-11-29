@@ -20,8 +20,8 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
         actionbar = getActionBar();
         viewPager.setAdapter(ft);
         actionbar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-        actionbar.addTab(actionbar.newTab().setText("Red Dog").setTabListener(this));
-        actionbar.addTab(actionbar.newTab().setText("Bluish Apple").setTabListener(this));
+        actionbar.addTab(actionbar.newTab().setText("Declaration of Faith").setTabListener(this));
+        actionbar.addTab(actionbar.newTab().setText("Articles of Religion").setTabListener(this));
         actionbar.addTab(actionbar.newTab().setText("Green Ice").setTabListener(this));
         viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
