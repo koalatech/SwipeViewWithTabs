@@ -22,7 +22,9 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
         actionbar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
         actionbar.addTab(actionbar.newTab().setText("Declaration of Faith").setTabListener(this));
         actionbar.addTab(actionbar.newTab().setText("Articles of Religion").setTabListener(this));
+        actionbar.addTab(actionbar.newTab().setText("Constitution and Canons").setTabListener(this));
         actionbar.addTab(actionbar.newTab().setText("History").setTabListener(this));
+
         viewPager.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
             @Override
             public void onPageScrolled(int i, float v, int i2) {

@@ -20,6 +20,8 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
                 return new FragmentTwo();
             case 2:
                 return new FragmentThree();
+            case 3:
+                return new FragmentFour();
             default:
                 break;
         }
@@ -30,7 +32,7 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
 }
